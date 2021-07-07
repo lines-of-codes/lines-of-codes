@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on StoryScript and Games in Unity
+- 🔭 I’m currently working on [StoryScript](https://github.com/StoryScriptorg/StoryScript) and Games in Unity
 - 🌱 I’m currently learning C++
 <!--
 - 👯 I’m looking to collaborate on ...
