@@ -9,14 +9,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [StoryScript](https://github.com/StoryScriptorg/StoryScript) and Games in Unity
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on a lot of stuff, mainly games in Unity
+- 🌱 I’m currently learning Flutter
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: admin@susite.ga
+- 📫 How to reach me: linesofcodes@proton.me
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
